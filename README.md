@@ -1,4 +1,4 @@
-# java-cli-crypto-bcrypt-hashing
+# java-cli-maven-crypto-bcrypt-hashing
 
 ## Description
 A demo for Bcrypt one-way hashing of
